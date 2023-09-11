@@ -4,3 +4,5 @@
 ![2](Images/Giuseppe_Paolini_10619082_Advanced_deep_learning_page-0002.jpg)
 ![3](Images/Giuseppe_Paolini_10619082_Advanced_deep_learning_page-0003.jpg)
 ![4](Images/Giuseppe_Paolini_10619082_Advanced_deep_learning_page-0004.jpg)
+![5](Images/Giuseppe_Paolini_10619082_Advanced_deep_learning_page-0005.jpg)
+
